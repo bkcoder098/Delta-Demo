@@ -10,5 +10,7 @@ This repositories by the help 0f shardha mam that was so enjoyable.
 This is demo.
 this is very very basic demo to create repo in github.
 
+during this session i learn how to create own repo and how to commit changes in your project and how to fork in someone  projects.. 
+
 
 
