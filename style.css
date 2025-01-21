@@ -1,0 +1,20 @@
+.main{
+    text-align:center;
+    
+
+}
+
+#form{
+    text-align:center;
+    margin-top:80px;
+    
+}
+
+.btn{
+    margin-top:4px;
+    border: 2px solid black;
+    border-radius:14px;
+    padding-left:10px;
+    padding-right:10px;
+
+}
